@@ -93,7 +93,6 @@ research-and-dev/
 │
 ├── .gitignore
 ├── LICENSE                               # MIT License
-├── agent.md                              # Governance & Decision Log
 └── README.md                             # Monorepo documentation
 ```
 

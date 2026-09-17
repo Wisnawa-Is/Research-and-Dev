@@ -11,3 +11,7 @@ Thumbs.db
 *.tmp
 *.bak
 scratch/
+
+# Agent Session Logs (Local only)
+agent.md
+genius-result.md
